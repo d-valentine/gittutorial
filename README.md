@@ -1,2 +1,2 @@
 # gittutorial
-git tutorial repository
+First git/github tutorial repository
